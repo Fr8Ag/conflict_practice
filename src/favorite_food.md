@@ -1,3 +1,3 @@
 # favorite food
 
-cooked fish
+raw meat
